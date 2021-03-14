@@ -1,3 +1,9 @@
+## Clone this repo to start working
+
+```
+ git clone https://github.com/rnwathon/react-router-redux-starter.git
+```
+
 ## Folder Structure
 
 ```
